@@ -17,4 +17,5 @@
       4 Build your app, shared the main.dart and yaml file, please keep minimum sdk as 19.
       5 Launch your app, make sure you have turned Bluetooth ON on your mobile and paired your HC-05.
 
-![alt text](https://github.com/prax78/Arduino-Fun-Project/blob/main/arduino.jpg)
+![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/App.png)
+![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/Arduino_Clock.png)
