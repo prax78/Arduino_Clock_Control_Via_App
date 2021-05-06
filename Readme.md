@@ -19,3 +19,5 @@
 
 ![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/App.png)
 ![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/Arduino_Clock.png)
+
+![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/clock-sketch.png)
